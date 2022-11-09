@@ -1,6 +1,6 @@
 ### Hi there,I am JayHwang 👋
 
-了解更多可以访问我的博客：[我的博客](http://hjzouhualu.com/)
+了解更多可以访问我的博客：[我的博客](http://zouhualu-code.com/)
 
 <!--
 **zouHuaLu/zouHuaLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
