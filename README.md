@@ -2,6 +2,8 @@
 
 了解更多可以访问我的博客：[我的博客](https://zouhualu.github.io)
 
+我反对996<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
 <!--
 **zouHuaLu/zouHuaLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
